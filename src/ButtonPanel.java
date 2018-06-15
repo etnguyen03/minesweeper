@@ -26,7 +26,7 @@ import java.awt.event.*;
 public class ButtonPanel extends JPanel {
 	
 	/**
-	 * Serial verion UID
+	 * Serial version UID
 	 */
 	private static final long serialVersionUID = 110888847104096271L;
 	/**

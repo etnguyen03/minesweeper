@@ -12,7 +12,7 @@ public class loseDialog {
 	 */
 	private JPanel losePanel;
 	/**
-	 * JFrame for losedialog
+	 * JFrame for lose dialog
 	 */
 	private JFrame loseFrame;
 	
